@@ -150,6 +150,7 @@ Note: You will need to add additional functionality to be able to add and remove
 
 1. Install the create-react-app
 To help us get started quickly, we will be using the create-react-app, a template generator for creating React Applciations quickly without having to install a ton of external dependencies. 
+
 - after it is installed, you should be able to cd into the project directory and then type *npm start* and it will start up a server for you and open your web brower with a starter page.
 - after this you should open the folder and replace the src file wit the file for this github repo. You should then be able to see a listing of the building codes and buildings, search/filter texbox and space to outpu details about your project.
 
@@ -158,7 +159,14 @@ To help us get started quickly, we will be using the create-react-app, a templat
 In your console: npm install --save @material-ui/core
 *You will use this later in the project when you start to style your page* 
 
-3. Use the starter code to create a front-end interface with React.js to display listings, as well as the ability to add new listings and delete old ones.
+3a. Once you install the create-react-app you can create an starter application for this assignment.
+*create-react-app <projectname>*
+
+Once you enter this command it will create a starter project and you will need to cd into this directory. This is where you will need to add the src file from this github repo. 
+
+There is a src file within the create-react-app project you've just created. You will need to replace everything in it with the src file from github except for the registerServiceWorker file. Keep your registerServiceWorker file.
+
+3b. Use the starter code to create a front-end interface with React.js to display listings, as well as the ability to add new listings and delete old ones.
 *Note* In this assignment, we won't connect the front-end to the back-end. We are only focused on creating your front-end user interfact.
 
 *Debugging Tips:* Use console.lo statements in your render functions g to print to the browser console to debug your program and to ensure you are passing the data around that you expected. This will help tremendously when you have errors that you can't figure out. 
