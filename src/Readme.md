@@ -90,6 +90,7 @@ Below is a list of resources that may be helpful.
 -   refs - https://reactjs.org/docs/refs-and-the-dom.html
 -- Forwarding Refs https://reactjs.org/docs/forwarding-refs.html
 - this.state - https://reactjs.org/docs/react-component.html#state
+--  this.setState
 - .bind(this) - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Function/bind
 
 
