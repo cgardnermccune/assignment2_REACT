@@ -59,7 +59,7 @@ Below is a list of resources that may be helpful.
 
 **Tutorials**
 *Getting Started: Creating a simple react app*
-[**Baby Name Tutorial**]() This is a 12 part video tutorial that walks through how to create a simple web applicaiton. It is very similar to the app that you will create in this assignment. *NOTE: I highly recommend working throuhg this tutorial and adapting it to complete this assighment.*
+[**Baby Name Tutorial**](https://www.youtube.com/playlist?list=PLHrxuCR-0CcT7hgVVlh0lBWTqYkEEF55m) This is a 12 part video tutorial that walks through how to create a simple web applicaiton. It is very similar to the app that you will create in this assignment. *NOTE: I highly recommend working throuhg this tutorial and adapting it to complete this assighment.*
 [**Create-react-app**](https://reactjs.org/docs/create-a-new-react-app.html) is a comfortable environment for learning React, and is the best way to start building a new single-page application in React.
 
 **Other Tutorials**
